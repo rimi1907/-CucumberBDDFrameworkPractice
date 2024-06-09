@@ -1,0 +1,4 @@
+Parallel\HomePageSteps.class
+Parallel\ParallelRun.class
+Parallel\ApplicationHooks.class
+Runner\MyTestRunner.class
